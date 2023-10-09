@@ -1,4 +1,4 @@
-#Number of Case/Deaths of each Country in 2019-2020
+#Number of Case/Deaths of each Country in Covid-19
 
 This data was to indicate the number of cases and deaths that occured from the Covid-19.
 Each country in the world was focused on in this dataset.
